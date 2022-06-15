@@ -30,7 +30,7 @@ page
     .text("Big text!")
     .characterSize(24)
     .emptyLine()
-    .text("Characters: öhm äh u are β and man ☑ ¿¿ ╬ invālid")
+    .text("Characters: öhm äh u are β and man ☑ ¿¿ ╬")
     .emptyLine()
     .alignment(TextAlignment.Right)
     .text("Right text :D")
