@@ -2,6 +2,7 @@
 <img src="https://img.shields.io/npm/v/brother-escp">
 
 An NPM package to interface with Brother receipt and label printers using ESC/P.
+[API Documentation](docs/)
 
 ## Installation
 
