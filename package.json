@@ -1,9 +1,10 @@
 {
   "name": "brother-escp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Interface with Brother brand printers using escp",
   "author": "Alain Siegrist",
   "license": "MIT",
+  "repository": "github:Alainx277/brother-escp",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
