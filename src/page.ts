@@ -115,7 +115,7 @@ export class PageSettings {
     pageLength: number = 0;
 
     toBuffer(): Buffer {
-        const buffer = Buffer.alloc(20);
+        const buffer = Buffer.alloc(21);
 
         // Orientation
         buffer.writeUint8(0x1B, 0);
