@@ -96,7 +96,7 @@ const Brother = {
     "·": 0xF9,
     "³": 0xFC,
     "²": 0xFD
-}
+} as const;
 
 // TODO: Support all character sets
 export const CharacterSets = {
